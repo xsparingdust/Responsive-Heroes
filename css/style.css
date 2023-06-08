@@ -140,14 +140,14 @@ footer img {
 /********** Para Tablet **********/
 @media screen and (max-width:768px){
   .boton{
-    top: 88%;
+    top: 80%;
   }
   
 }
   
 @media screen and (max-width:480px){
   .boton{
-    top: 88%;
+    top: 77%;
     right: 0%;
   }
   .ocultar{
